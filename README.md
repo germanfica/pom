@@ -1,0 +1,1 @@
+# A collection of `pom.xml` templates
