@@ -62,7 +62,7 @@
                 <artifactId>javax.annotation-api</artifactId>
                 <version>${annotation-api.version}</version>
             </dependency>
-			<!-- Project Lombok -->
+            <!-- Project Lombok -->
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
